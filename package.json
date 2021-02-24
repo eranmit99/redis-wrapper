@@ -1,0 +1,25 @@
+{
+  "name": "redis-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eranmit99/redis-wrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eranmit99/redis-wrapper/issues"
+  },
+  "peerDependencies": {
+    "redis": "^3.0.2"
+  },
+  "homepage": "https://github.com/eranmit99/redis-wrapper#readme"
+}
