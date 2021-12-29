@@ -1,5 +1,6 @@
 const RedisClient = require('./redis-client');
 
+
 class RedisFactory {
 	constructor({redis, config}) {
 		this.redis = redis;
